@@ -1,0 +1,24 @@
+.backups/
+.vscode/
+.env*
+node_modules/
+*.bak
+*.bak.*
+**/.git/
+
+# Temporary and local-only development files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.history/
+coverage/
+dist/
+build/
